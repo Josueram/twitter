@@ -1,0 +1,22 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Josueram/twitter.git"
+  },
+  "author": "Josué Ramírez <josueramirez0110@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Josueram/twitter/issues"
+  },
+  "homepage": "https://github.com/Josueram/twitter#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
